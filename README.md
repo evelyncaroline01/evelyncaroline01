@@ -12,3 +12,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evelyncaroline01&theme=transparent&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
+
+
+<div align="center"> 
+<a href="[https://instagram.com/carol_developer](https://www.linkedin.com/in/evelyn-caroline-2066662b2/)" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/evelyncaroline01/evelyncaroline01/assets/165695737/858de045-803f-47cf-9961-404c9b12e879">
+</a>
