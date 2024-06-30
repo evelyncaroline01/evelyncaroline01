@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/evelyncaroline01/evelyncaroline01/assets/165695737/b0aae18f-0915-404d-9b5d-d0cd7d24323d"/>
+<img width=100% bottom=50px src="https://github.com/evelyncaroline01/evelyncaroline01/assets/165695737/8c410fa6-335a-4de5-b41e-c1ac62f02b6f"/>
 <br>
 <br> 
 
@@ -30,8 +30,11 @@
 <br>
 <br>
 
-<p align="centre"><b>Contagem de visitantes/ visitor Count</b></p> 
-  
-<p align="center"><img align="center" src="<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fevelyncaroline01&s=40&c=010101&bg=00000000&no=2&ff=digi&tb=Visitas+%2F+Visits+%3A+&ta=" alt="visits">" /></p> 
-<br>
 </div>
+
+<br>
+<br> 
+
+
+<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
+
