@@ -30,6 +30,7 @@
 <br>
 <br>
 
+
 </div>
 
 <br>
@@ -38,3 +39,9 @@
 
 <img width=100% src="https://github.com/evelyncaroline01/evelyncaroline01/assets/165695737/30da5108-5a07-46cb-b841-e0607e646e21"/>
 
+
+# APIS REALIZADAS
+## LINK DO DESENVOLVIMENTO ATIVIDADE 1 DE ANÁLISE DE DADOS IMPORTAÇÃO E EXPORTAÇÃO DE 2025 E 2026
+https://colab.research.google.com/drive/1le81EZ7TrPHelBKBQwng0QQhU_EWfD2Y?usp=sharing
+## LINK DO DESENVOLVIMENTO ATIVIDADE 2 DE P.O
+https://colab.research.google.com/drive/1_6AEIzdVmjIwwKoyzIa-ewrZ_GQ3uIsK?usp=sharing
